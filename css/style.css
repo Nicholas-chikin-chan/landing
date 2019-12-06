@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Lato|Open+Sans&display=swap")
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+}
+
+h1, h2, h3{
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+}
+
+a{
+	text-decoration: none;
+}
